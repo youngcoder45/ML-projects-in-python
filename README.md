@@ -47,8 +47,6 @@ soon!
 * **Recommender Systems** – Movie recommendation engine.
 * **Time Series Forecasting** – Stock price prediction.
 
-*(You can expand this list with exact projects you’ve added.)*
-
 ---
 
 ## 📖 How to Use
