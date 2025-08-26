@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Projects in Python.
 
-Welcome to **Machine Learning Projects in Python** — a collection of end-to-end ML projects built by me while learning and mastering machine learning.
+Welcome to **Machine Learning Projects in Python** — a collection of end-to-end ML projects built by me while learning and mastering machine learning..
 This repository covers a wide range of projects from **beginner-friendly basics** to **advanced, production-grade implementations**, making it useful for:
 
 * 🎓 **Beginners** who want simple examples to get started.
